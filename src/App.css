@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,46 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+.icone{
+  margin-top: -20px;
+  position: absolute;
+  left: 82px;
+  background-color: rgb(0, 174, 255);
+  color: white;
+ 
 }
+.icon{
+  margin-top: -20px;
+  position: absolute;
+  left: 80px;
+  background-color: rgb(0, 221, 66);
+  color: white;
+ 
+}
+.iconne{
+  margin-top: -20px;
+  position: absolute;
+  left: 80px;
+  background-color: rgb(255, 230, 0);
+  color: white;
+ 
+}
+.image{
+  position: relative;
+  top: 33px;
+}
+ul{
+  padding: 10px;
+}
+
+
+
+
+
+
+
+
+
+
