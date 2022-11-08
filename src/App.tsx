@@ -93,7 +93,7 @@ function App() {
   <div className="P-1 rounded-lg ">
       <ul className="   grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3 " >
 
-        <li className=" border-solid border-2 border-sky-500/100 border-bg-sky-500/100 rounded-sm col-span-1 bg-white rounded-lg shadow divide-y divide-gray-200"
+        <li className=" border-solid border-2 border-sky-500/100 border-bg-sky-500/100 rounded-sm col-span-1 bg-white  shadow divide-y divide-gray-200"
       >
 
       <div className="  w-full flex items-center justify-between p-6 space-x-6">
